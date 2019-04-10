@@ -1,0 +1,3 @@
+rootProject.name = 'tempugow_2149'
+
+include ':app'
